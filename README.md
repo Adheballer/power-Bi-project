@@ -1,2 +1,3 @@
 # power-Bi-project
 This project showcases an interactive Sales Analysis Dashboard built in Power BI, designed to uncover actionable insights from sales and profit data across regions, categories, and time periods. The dashboard provides a comprehensive view of business performance.
+Using Power BI, I performed data cleaning, modeling, and visualization to transform raw data into meaningful insights. Custom DAX measures were created to calculate Total Sales, Total Profit, Profit Margin, and Year-over-Year Growth. The visualizations include KPI cards, trend lines, and regional comparisons, making the report easy to interpret at a glance.
